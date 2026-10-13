@@ -1,0 +1,15 @@
+# Data files excluded: the source dataset declares no license,
+# so raw and derived data are not redistributed.
+# Rebuild locally with: python scripts/build_dataset.py
+data/raw_etsy.parquet
+data/train.jsonl
+data/eval.jsonl
+eval/results.jsonl
+
+# Local-only
+.venv/
+__pycache__/
+*.log
+*.pyc
+dev-post-draft.md
+.DS_Store
