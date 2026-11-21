@@ -76,4 +76,4 @@ python -m venv .venv && .venv/bin/pip install -r requirements.txt
 - [x] Fine-tuned on Tinker (Qwen3.5-4B, LoRA r32, 2 epochs)
 - [x] Eval: base vs. fine-tuned (metrics + blind judge)
 - [x] Demo UI (verified end-to-end)
-- [ ] DEV submission post (due Oct 18)
+- [x] DEV submission post ([published Oct 13, 2026](https://dev.to/utkarshsonawane67/i-fine-tuned-a-4b-model-to-write-etsy-listings-that-actually-rank-pej))
